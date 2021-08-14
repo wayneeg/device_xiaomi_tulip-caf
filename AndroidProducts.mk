@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_tulip.mk
+    $(LOCAL_DIR)/p404_tulip.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_tulip-user \
-    lineage_tulip-userdebug \
-    lineage_tulip-eng
+    p404_tulip-user \
+    p404_tulip-userdebug \
+    p404_tulip-eng 
