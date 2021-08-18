@@ -45,7 +45,7 @@ TARGET_SCREEN_DENSITY := 384
 
 # Kernel
 TARGET_KERNEL_SOURCE := kernel/xiaomi/tulip
-TARGET_KERNEL_CONFIG := tulip_defconfig
+TARGET_KERNEL_CONFIG := mystic-tulip-oldcam_defconfig
 
 # Manifest
 DEVICE_MANIFEST_FILE += $(DEVICE_PATH)/configs/manifest.xml
