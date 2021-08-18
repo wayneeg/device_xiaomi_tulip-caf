@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/p404_tulip.mk
+    $(LOCAL_DIR)/cygnus_tulip.mk
 
 COMMON_LUNCH_CHOICES := \
-    p404_tulip-user \
-    p404_tulip-userdebug \
-    p404_tulip-eng 
+    cygnus_tulip-user \
+    cygnus_tulip-userdebug \
+    cygnus_tulip-eng 
